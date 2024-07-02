@@ -10,5 +10,5 @@ setup(
     author= 'Cassidy Cubra',
     author_email='drz8rt@virginia.edu',
     license= 'MIT',
-    packages=['mypackage']
+    packages=['booklover']
 )
