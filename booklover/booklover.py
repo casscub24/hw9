@@ -31,7 +31,7 @@ class BookLover:
 
     
     def num_books_read(self):
-        return self.num_books
+        print(self.num_books)
     
     def fav_books(self):
         return self.book_list[self.book_list['book_rating']>3]
